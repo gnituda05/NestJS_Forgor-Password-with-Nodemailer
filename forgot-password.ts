@@ -70,7 +70,7 @@ export class UsersService {
       secure: false,
       auth: {
         user: 'gnituda05@gmail.com',
-        pass: 'yxyknmcqhzcwbiyd',
+        pass: '(yoursmtppassword)',
       },
     }).sendMail({
       from: 'boredguysCorp.com',
